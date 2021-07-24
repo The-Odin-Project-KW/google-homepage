@@ -1,3 +1,3 @@
-This is a mini-project from The Odin Project.
+This is a mini-project from The Odin Project that involves HTML and CSS.
 
-This project will let me practice html and CSS.
+The final result can be found here: https://the-odin-project-kw.github.io/google-homepage/.
